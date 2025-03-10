@@ -1,4 +1,4 @@
-# Server-side rendering
+# Server-side rendering 
 
 Server-side rendering (SSR) is a process that involves rendering pages on the server, resulting in initial HTML content which contains initial page state. Once the HTML content is delivered to a browser, Angular initializes the application and utilizes the data contained within the HTML.
 
